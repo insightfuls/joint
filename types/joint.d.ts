@@ -144,7 +144,7 @@ export namespace dia {
         }
 
         interface Selectors {
-            [selector: string]: attributes.SVGAttributes;
+            [selector: string]: attributes.SVGAttributes | undefined;
         }
 
         interface Attributes extends GenericAttributes<Selectors> {
