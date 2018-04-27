@@ -1,5 +1,5 @@
 {
-  "name": "jointjs",
+  "name": "@ne/jointjs",
   "title": "JointJS",
   "description": "JavaScript diagramming library",
   "keywords": [
@@ -11,7 +11,7 @@
   "scripts": {
     "test": "grunt test"
   },
-  "version": "2.0.1",
+  "version": "2.0.2-ne.1",
   "main": "./dist/joint.min.js",
   "style": "./dist/joint.min.css",
   "types": "./dist/joint.d.ts",
